@@ -1,3 +1,14 @@
+
 <resources>
+
+
     <string name="app_name">MySuperHero</string>
+    <string name="locationTVText">Selection your location:</string>
+    <string name="superHeroTVText">Super Heroes in the area:</string>
+  <string-array name="locationArea">
+     <item>North</item>
+      <item>South</item>
+      <item>East</item>
+      <item>West</item>
+  </string-array>
 </resources>
